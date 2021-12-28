@@ -1,4 +1,4 @@
-# Two_Players_Fight_Game
+# Two Players Fight Game
 
 The project name is “ Two players Fight”. So, project have two players: one is a computer player and the other is a real player,
 which means user. 
