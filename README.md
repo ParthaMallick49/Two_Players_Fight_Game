@@ -10,4 +10,9 @@ the amount of health of the computer decreases, a little less than the number of
 In the game, both players will have two guns, one is the default gun and the other is the customizable gun. 
 Here, The default gun means the same gun for both of them and a customized gun means that the user can change. 
 This game also has a feature which is that when a player's health decreases, he can increase his health with drinks. 
-And at the last when a player's health becomes zero, the game will be over and the winner will show the opposite player. That’s it. 
+And at the last when a player's health becomes zero, the game will be over and the winner will show the opposite player. That’s it.
+
+
+### How to Contribute
+- For contributions in this repository, please read `CONTRIBUTING.md` first. (Please pull the changes from this repo if you have already forked the repository and are facing conflicts)
+- If you like the repository, please star it.
